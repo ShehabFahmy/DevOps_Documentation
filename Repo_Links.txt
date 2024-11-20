@@ -1,0 +1,26 @@
+- DMBShell:
+https://github.com/ShehabFahmy/DBMShell
+
+- Git Lab 1:
+https://github.com/ShehabFahmy/DevOps_YAT_git_lab1
+
+- Git Lab 2:
+https://github.com/ShehabFahmy/DevOps_YAT_git_lab2
+
+- K8s Task:
+https://github.com/ShehabFahmy/K8s_Task
+
+- AWS Tasks:
+https://github.com/ShehabFahmy/AWS_Tasks
+
+- Terraform Task 1:
+https://github.com/ShehabFahmy/Terraform_Task1
+
+- Terraform Task 2:
+https://github.com/ShehabFahmy/Terraform_Task2
+
+- Jenkins Task:
+https://github.com/ShehabFahmy/Jenkins_Task1
+
+- Pre-final Project:
+https://github.com/ShehabFahmy/Nexus_Installation
